@@ -1,1 +1,1 @@
---- Naxy C++ Library 1.0.0 ---
+--- Naxy C++ Library ---
