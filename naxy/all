@@ -2,4 +2,7 @@
 #ifndef __NAXY_ALL__
 #define __NAXY_ALL__
 
+#include <naxy/convert.h>
+#include <naxy/type.h>
+
 #endif
