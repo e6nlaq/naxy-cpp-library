@@ -4,5 +4,6 @@
 
 #include <naxy/convert.h>
 #include <naxy/type.h>
+#include <naxy/contest.hpp>
 
 #endif
