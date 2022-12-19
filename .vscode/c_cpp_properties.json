@@ -5,7 +5,7 @@
             "includePath": [
                 "${workspaceFolder}/**",
                 "C:\\MinGW",
-                "C:\\Naxy"
+                "C:\\Naxy\\lib\\cpp"
             ],
             "defines": [
                 "_DEBUG",
